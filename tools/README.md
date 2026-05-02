@@ -6,7 +6,13 @@ A curated list of tools that extend, complement, or integrate with NotebookLM. O
 
 ## Browser Extensions
 
-**[NotebookLM Hub](https://chromewebstore.google.com/detail/notebooklm-hub/opeemcbkbfbfdcbacbigjekphiclcegb?utm_source=github&utm_medium=awesome-list&utm_campaign=organic)** — Chrome extension for one-click web import, source management, and link extraction. Adds a browser action to send the current page directly to a NotebookLM notebook without copy-pasting URLs. Also extracts all links from a page as a structured source list.
+**[NotebookLM Hub](https://chromewebstore.google.com/detail/notebooklm-hub/opeemcbkbfbfdcbacbigjekphiclcegb?utm_source=github&utm_medium=awesome-list&utm_campaign=organic)** — Chrome extension that adds a persistent sidebar to NotebookLM with three tabs:
+
+- **Sources** — Add any webpage or YouTube link to the current notebook in one click, with live ingestion progress. Also extracts all links from the current page as a batch import list.
+- **Prompts** — 20+ built-in templates (Academic, Business, Content, General) plus unlimited custom prompts created inline with `{{variable}}` support. Clicking "Use" injects the prompt directly into NotebookLM's query box. Pin any prompt to keep it permanently at the top of the list.
+- **Settings** — Language preference and notebook management.
+
+Free. No account required.
 
 ---
 

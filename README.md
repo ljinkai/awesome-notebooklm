@@ -84,7 +84,7 @@ How to connect NotebookLM with other tools in your stack.
 
 **Browser Extensions**
 
-**[NotebookLM Hub](https://chromewebstore.google.com/detail/notebooklm-hub/opeemcbkbfbfdcbacbigjekphiclcegb?utm_source=github&utm_medium=awesome-list&utm_campaign=organic)** — Chrome extension for one-click web import, source management, and link extraction. Lets you add any webpage to a NotebookLM notebook without copy-pasting URLs.
+**[NotebookLM Hub](https://chromewebstore.google.com/detail/notebooklm-hub/opeemcbkbfbfdcbacbigjekphiclcegb?utm_source=github&utm_medium=awesome-list&utm_campaign=organic)** — Chrome extension that adds a persistent sidebar to NotebookLM with three capabilities: (1) **Source Manager** — add any webpage or YouTube link directly to your notebook without copy-pasting URLs, with live ingestion progress; (2) **Prompt Library** — 20+ built-in templates across Academic, Business, Content, and General categories, plus custom prompts you create inline using `{{variable}}` syntax; (3) **Notebook Switcher** — jump between notebooks without leaving the page. Prompts inject directly into NotebookLM's query box with one click. Pin any prompt to keep it at the top of the list across sessions.
 
 ---
 
