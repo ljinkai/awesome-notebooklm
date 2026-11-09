@@ -14,6 +14,27 @@ A curated list of tools that extend, complement, or integrate with NotebookLM. O
 
 Free. No account required.
 
+**[NotebookBloom](https://notebookbloom.com)** — Chrome extension that adds research tools to NotebookLM:
+
+- **Citations** — Export a notebook's sources as APA, MLA, Chicago, or BibTeX. The BibTeX file imports into Zotero.
+- **Anki** — Send NotebookLM flashcards to Anki as .apkg, TSV, or directly through AnkiConnect, with the source on every card.
+- **Search** — Search across the notebooks you've indexed, locally in your browser.
+- **Organize & import** — Folders, tags, a prompt library, and bulk import of links, YouTube playlists, and RSS feeds.
+
+Free plan; optional Pro adds cloud sync. Also on the [Chrome Web Store](https://chromewebstore.google.com/detail/fmnhogknjhlaicceielblddajjabjlha).
+
+PR title:
+Add NotebookBloom to Browser Extensions
+
+PR description:
+Adds NotebookBloom to Browser Extensions. I'm the developer.
+
+- Name: NotebookBloom (https://notebookbloom.com)
+- What it does: A Chrome extension that turns NotebookLM sources and flashcards into research output: formatted citations, Zotero-ready BibTeX, and Anki decks.
+- How it integrates: It runs on notebooklm.google.com, reads the sources and flashcards in the open notebook, and exports them. No account required for the free features.
+- Category: Browser Extensions
+
+No affiliate links. Happy to adjust the wording or placement.
 ---
 
 ## Note-Taking & PKM
